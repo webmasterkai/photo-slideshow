@@ -13,6 +13,7 @@ data:
     - LAUNCH_URL: 'http://photo-gallery:8888/'
     - KIOSK: '1'
     - GALLERY_URL: ''
+    - GALLERY_SLIDESHOW_DELAY: 60000
   defaultDeviceType: "raspberrypi4"
   supportedDeviceTypes:
     - "raspberrypi4"
